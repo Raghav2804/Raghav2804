@@ -23,52 +23,137 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="100%" height="3">
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Who Am I? 
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</div>
 
-```python
-class RaghavArora:
-    def __init__(self):
-        self.name = "🚀 Raghav Arora"
-        self.location = "🏢 Gurugram, India 🇮🇳"
-        self.education = "🎓 BCA (AI & DS) @ K.R. Mangalam University"
-        self.current_focus = [
-            "🤖 Artificial Intelligence", 
-            "🔐 Cybersecurity", 
-            "🌐 Full Stack Development"
-        ]
-        self.languages = ["🇺🇸 English", "🇮🇳 Hindi"]
-        
-    def current_status(self):
-        return {
-            "🎓": "Final Year BCA Student (CGPA: 7.77/10)",
-            "💼": "Ex-Cybersecurity Intern @ Placify",
-            "🔍": "Open to AI/ML & Cybersecurity Opportunities",
-            "🌱": "Learning Advanced Deep Learning & Cloud Security",
-            "⚡": "Built AI system with 90% emotion detection accuracy!",
-            "🏆": "Reduced security vulnerabilities by 30% in internship"
-        }
-    
-    def get_skills(self):
-        return {
-            "💻 languages": ["Python", "C++", "Java", "R", "SQL"],
-            "🤖 ai_ml": ["TensorFlow", "PyTorch", "OpenCV", "Pandas", "NumPy"],
-            "🌐 web": ["Flask", "HTML", "CSS", "JavaScript"],
-            "☁️ cloud": ["AWS", "Azure", "Power BI"],
-            "🛡️ security": ["Penetration Testing", "Network Analysis"],
-            "🛠️ tools": ["Git", "PyCharm", "MySQL", "Excel"]
-        }
-    
-    def future_goals(self):
-        return [
-            "🎯 Secure AI/ML Engineer role",
-            "📚 Publish research on AI threat detection", 
-            "🌟 Contribute to major open-source projects",
-            "🏅 Earn AWS & CEH certifications",
-            "🚀 Launch AI-powered cybersecurity startup"
-        ]
+### 🎭 **Meet the Mind Behind the Code**
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
+</td>
+<td width="50%">
+
+**🚀 I'm Raghav** - a passionate **AI Enthusiast** and **Cybersecurity Specialist** who turns caffeine into code and ideas into reality!
+
+**📍 Based in:** Gurugram, India 🇮🇳  
+**🎓 Currently:** Final Year BCA (AI & DS) Student  
+**💡 Motto:** *"Building AI that protects, not just predicts"*
+
+</td>
+</tr>
+</table>
+
+### 🎯 **What Drives Me?**
+
+<div align="center">
+<img src="https://img.shields.io/badge/🤖_AI_&_Machine_Learning-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F2937" height="60"/>
+<img src="https://img.shields.io/badge/🔐_Cybersecurity-4ECDC4?style=for-the-badge&logoColor=white&labelColor=1F2937" height="60"/>
+<img src="https://img.shields.io/badge/💻_Full_Stack_Development-45B7D1?style=for-the-badge&logoColor=white&labelColor=1F2937" height="60"/>
+</div>
+
+### ⚡ **Quick Facts About Me**
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"/>
+<br/>
+<strong>🔥 Current Achievement</strong>
+<br/>
+Built an AI system that can<br/>
+<strong>read emotions with 90% accuracy!</strong>
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60"/>
+<br/>
+<strong>🛡️ Security Hero</strong>
+<br/>
+Detected <strong>20+ vulnerabilities</strong><br/>
+and reduced risk by <strong>30%</strong>
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="60"/>
+<br/>
+<strong>🎓 Academic Excellence</strong>
+<br/>
+Maintaining <strong>7.77 CGPA</strong><br/>
+while building cool projects!
+</td>
+</tr>
+</table>
+</div>
+
+### 🌟 **What Makes Me Unique?**
+
+<div align="center">
+
+| 💡 **Innovation** | 🔬 **Problem Solving** | 🤝 **Collaboration** |
+|:--:|:--:|:--:|
+| Created AI systems that understand human emotions | Reduced manual work by 70-80% in all projects | Led team of 5 in implementing multi-factor authentication |
+| Built real-time language translator for 5 languages | Optimized performance review process saving 10 hours/month | Collaborated on security protocols boosting protection by 25% |
+
+</div>
+
+### 🎪 **My Journey So Far**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600"/>
+
 ```
+🎓 2023  ───────→  Started BCA with AI & DS Specialization
+👨‍💻 2024  ───────→  Built 4 Major Projects (AI, ML, Web, Security)
+🛡️ 2024  ───────→  Completed Cybersecurity Internship at Placify
+🏆 2024  ───────→  Earned 5 Professional Certifications
+🚀 2025  ───────→  Ready to conquer the tech world!
+```
+
+</div>
+
+### 🎨 **Beyond the Code**
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
+<br/>
+<strong>🏏 Sports Enthusiast</strong>
+<br/>
+Cricket is my game!
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
+<br/>
+<strong>🎵 Music Lover</strong>
+<br/>
+Coding with beats!
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
+<br/>
+<strong>🌱 Lifelong Learner</strong>
+<br/>
+Always exploring new tech!
+</td>
+</tr>
+</table>
+</div>
+
+### 🎭 **Fun Philosophy**
+
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
+
+*"I don't just write code, I craft digital experiences that make the world a little smarter and a lot safer!"*
+
+<img src="https://img.shields.io/badge/💭_Current_Mood-Building_The_Future-FF9FF3?style=for-the-badge&logoColor=white&labelColor=1F2937" height="40"/>
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="100%" height="3">
