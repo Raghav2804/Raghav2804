@@ -1,4 +1,4 @@
-# 🌙 Hello World! I'm Raghav Arora
+# Hello World! I'm Raghav Arora
 
 <div align="center">
   
