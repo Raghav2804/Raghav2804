@@ -1,422 +1,324 @@
-# Hello World! I'm Raghav Arora
-
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raghav%20Arora&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=100&lines=🤖+AI+%26+Machine+Learning+Engineer;🔐+Cybersecurity+Specialist;💻+Full+Stack+Developer;🎓+BCA+Student+%40+KR+Mangalam;🚀+Open+Source+Enthusiast)](https://git.io/typing-svg)
+# Hello, I'm Raghav Arora! 👋
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=AI+%26+Machine+Learning+Engineer;Cybersecurity+Specialist;Full+Stack+Developer;Building+AI+that+Protects!)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-000000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=1F2937&countColor=00F5FF" height="35"/>
-  <img src="https://komarev.com/ghpvc/?username=Raghav2804&color=00F5FF&style=for-the-badge&label=Visitors" height="35"/>
-  <img src="https://img.shields.io/github/followers/Raghav2804?style=for-the-badge&logo=github&color=00F5FF&labelColor=1F2937" height="35"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00F5FF&labelColor=1F2937" height="35"/>
-</div>
+📍 **Gurugram, India** | 🎓 **Final Year BCA (AI & DS)** @ KR Mangalam | **CGPA: 7.77**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Raghav2804)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.email@example.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Raghav2804&color=00D9FF&style=for-the-badge&label=Profile+Views)
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="100%" height="3">
-</div>
+## 🚀 About Me
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Who Am I? 
-
-<div align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
-</div>
-
-### 🎭 **Meet the Mind Behind the Code**
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
-</td>
-<td width="50%">
-
-**🚀 I'm Raghav** - a passionate **AI Enthusiast** and **Cybersecurity Specialist** who turns caffeine into code and ideas into reality!
-
-**📍 Based in:** Gurugram, India 🇮🇳  
-**🎓 Currently:** Final Year BCA (AI & DS) Student  
-**💡 Motto:** *"Building AI that protects, not just predicts"*
-
-</td>
-</tr>
-</table>
-
-### 🎯 **What Drives Me?**
-
-<div align="center">
-<img src="https://img.shields.io/badge/🤖_AI_&_Machine_Learning-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F2937" height="60"/>
-<img src="https://img.shields.io/badge/🔐_Cybersecurity-4ECDC4?style=for-the-badge&logoColor=white&labelColor=1F2937" height="60"/>
-<img src="https://img.shields.io/badge/💻_Full_Stack_Development-45B7D1?style=for-the-badge&logoColor=white&labelColor=1F2937" height="60"/>
-</div>
-
-### ⚡ **Quick Facts About Me**
-
-<div align="center">
 <table>
 <tr>
-<td align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"/>
-<br/>
-<strong>🔥 Current Achievement</strong>
-<br/>
-Built an AI system that can<br/>
-<strong>read emotions with 90% accuracy!</strong>
+<td width="60%">
+
+Passionate **AI enthusiast** and **cybersecurity specialist** with expertise in building intelligent systems and securing digital infrastructure. Currently developing innovative projects that combine artificial intelligence with practical applications.
+
+**🎯 What I Do:**
+- 🤖 **AI/ML Development** & Computer Vision
+- 🔐 **Cybersecurity** & Penetration Testing  
+- 💻 **Full Stack** Web Development
+- 📊 **Data Science** & Analytics
+
 </td>
-<td align="center">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60"/>
-<br/>
-<strong>🛡️ Security Hero</strong>
-<br/>
-Detected <strong>20+ vulnerabilities</strong><br/>
-and reduced risk by <strong>30%</strong>
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="60"/>
-<br/>
-<strong>🎓 Academic Excellence</strong>
-<br/>
-Maintaining <strong>7.77 CGPA</strong><br/>
-while building cool projects!
+<td width="40%">
+
+```python
+class RaghavArora:
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.location = "Gurugram, India"
+        self.passion = ["AI", "Security", "Innovation"]
+        self.current_focus = "Building AI that protects"
+    
+    def get_skills(self):
+        return {
+            "AI/ML": ["TensorFlow", "PyTorch", "OpenCV"],
+            "Security": ["Penetration Testing", "OWASP"],
+            "Development": ["Python", "Flask", "JavaScript"]
+        }
+```
+
 </td>
 </tr>
 </table>
-</div>
 
-### 🌟 **What Makes Me Unique?**
+---
 
-<div align="center">
-
-| 💡 **Innovation** | 🔬 **Problem Solving** | 🤝 **Collaboration** |
-|:--:|:--:|:--:|
-| Created AI systems that understand human emotions | Reduced manual work by 70-80% in all projects | Led team of 5 in implementing multi-factor authentication |
-| Built real-time language translator for 5 languages | Optimized performance review process saving 10 hours/month | Collaborated on security protocols boosting protection by 25% |
-
-</div>
-
-### 🎪 **My Journey So Far**
+## 🛠️ Technical Arsenal
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600"/>
 
-```
-🎓 2023  ───────→  Started BCA with AI & DS Specialization
-👨‍💻 2024  ───────→  Built 4 Major Projects (AI, ML, Web, Security)
-🛡️ 2024  ───────→  Completed Cybersecurity Internship at Placify
-🏆 2024  ───────→  Earned 5 Professional Certifications
-🚀 2025  ───────→  Ready to conquer the tech world!
-```
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-</div>
+### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🎨 **Beyond the Code**
+### 🌐 Web Development
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
-<br/>
-<strong>🏏 Sports Enthusiast</strong>
-<br/>
-Cricket is my game!
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
-<br/>
-<strong>🎵 Music Lover</strong>
-<br/>
-Coding with beats!
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
-<br/>
-<strong>🌱 Lifelong Learner</strong>
-<br/>
-Always exploring new tech!
-</td>
-</tr>
-</table>
-</div>
+### 🔐 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-### 🎭 **Fun Philosophy**
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft%20azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-<div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
-
-*"I don't just write code, I craft digital experiences that make the world a little smarter and a lot safer!"*
-
-<img src="https://img.shields.io/badge/💭_Current_Mood-Building_The_Future-FF9FF3?style=for-the-badge&logoColor=white&labelColor=1F2937" height="40"/>
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="100%" height="3">
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Tech Stack & Arsenal
+## 🌟 Featured Projects
+
+<details>
+<summary><b>🎭 Emotion-Based Music Recommendation System</b> - <i>Click to expand!</i></summary>
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Programming Languages
-<div align="center">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1F2937" height="50"/>
-</div>
-
-### <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> AI/ML & Data Science
-<div align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1F2937" height="50"/>
-</div>
-
-### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="35"> Web Development
-<div align="center">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1F2937" height="50"/>
-</div>
-
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="35"> Cloud & DevOps
-<div align="center">
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/microsoft%20azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=1F2937" height="50"/>
-</div>
-
-### <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> Cybersecurity
-<div align="center">
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=1F2937" height="50"/>
-</div>
-
-### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35"> Databases & BI Tools
-<div align="center">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=1F2937" height="50"/>
-</div>
-
-### <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="35"> Development Tools
-<div align="center">
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=1F2937" height="50"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&labelColor=1F2937" height="50"/>
-</div>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Raghav2804&repo=emotion-music-recommender&theme=tokyonight&border_color=00D9FF)](https://github.com/Raghav2804/emotion-music-recommender)
 
 </div>
 
+**🚀 Key Features:**
+- 🎯 Real-time facial emotion detection using OpenCV and deep learning
+- 📊 **90% accuracy** in mood classification across 7 emotions
+- ⚡ **80% reduction** in manual playlist curation time
+- 🎵 Personalized music recommendations based on detected emotions
+
+**🛠️ Tech Stack:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>📚 Student Performance Prediction System</b> - <i>Click to expand!</i></summary>
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="100%" height="3">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Raghav2804&repo=student-performance-predictor&theme=tokyonight&border_color=00D9FF)](https://github.com/Raghav2804/student-performance-predictor)
+
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> GitHub Analytics & Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Raghav2804&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&border_color=00F5FF&title_color=00F5FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117" width="48%" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav2804&layout=compact&langs_count=12&theme=radical&border_radius=20&border_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&bg_color=0D1117" width="48%" height="200"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghav2804&theme=radical&border_radius=20&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideLabels=FFFFFF&background=0D1117&border=00F5FF" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav2804&theme=react-dark&bg_color=0D1117&color=00F5FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Raghav2804&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%"/>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="100%" height="3">
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Featured Projects & Achievements
-
-<div align="center">
-
-### 🎭 [Emotion-Based Music Recommendation System](https://github.com/Raghav2804/emotion-music-recommender)
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Raghav2804&repo=emotion-music-recommender&theme=radical&border_radius=20&border_color=00F5FF&title_color=00F5FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117" width="80%"/>
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=1F2937" height="30"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white&labelColor=1F2937" height="30"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1F2937" height="30"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1F2937" height="30"/>
-</div>
-
-**🔥 Key Highlights:**
-- 🤖 **Real-time facial emotion detection** using OpenCV & deep learning
-- 🎯 **90% accuracy** in mood classification across 7 emotions
-- ⏱️ **80% reduction** in manual playlist curation time
-- 👥 **50+ test users** with personalized music recommendations
-- 🚀 **Live demo** with webcam integration
-
----
-
-### 📚 [Student Performance Prediction System](https://github.com/Raghav2804/student-performance-predictor)
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Raghav2804&repo=student-performance-predictor&theme=radical&border_radius=20&border_color=00F5FF&title_color=00F5FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117" width="80%"/>
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=1F2937" height="30"/>
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1F2937" height="30"/>
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1F2937" height="30"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white&labelColor=1F2937" height="30"/>
-</div>
-
-**🎯 Impact Metrics:**
-- 📊 **500+ student records** analyzed with advanced ML algorithms
+**📈 Impact Metrics:**
 - 🎯 **85% prediction accuracy** using ensemble methods
+- 📊 Analyzed **500+ student records** with interactive dashboards
 - ⏰ **10 hours monthly** saved for educational institutions
-- 📈 **Interactive dashboards** for real-time performance tracking
-- 🔬 **Feature importance analysis** for educational insights
+- 🔍 Feature importance analysis for educational insights
 
----
+**🛠️ Tech Stack:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
 
-### 🌍 [Real-Time Multi-Language Translator](https://github.com/Raghav2804/language-translator)
+</details>
+
+<details>
+<summary><b>🌍 Real-Time Multi-Language Translator</b> - <i>Click to expand!</i></summary>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Raghav2804&repo=language-translator&theme=radical&border_radius=20&border_color=00F5FF&title_color=00F5FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117" width="80%"/>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Raghav2804&repo=language-translator&theme=tokyonight&border_color=00D9FF)](https://github.com/Raghav2804/language-translator)
+
 </div>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=1F2937" height="30"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1F2937" height="30"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1F2937" height="30"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1F2937" height="30"/>
-</div>
+**🌐 Advanced Features:**
+- 🗣️ Neural translation system supporting **5 languages**
+- ⚡ Real-time processing with **<2s response time**
+- 🔄 **70% reduction** in manual translation tasks
+- 🎨 Modern UI/UX with responsive design
 
-**🚀 Advanced Features:**
-- 🌐 **5 languages** supported with neural translation
-- ⚡ **Real-time processing** with < 2s response time
-- 🔢 **100+ daily translations** processed efficiently
-- 💡 **70% time reduction** in manual translation tasks
-- 🎨 **Modern UI/UX** with responsive design
+**🛠️ Tech Stack:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
----
+</details>
 
-### 💰 [AI-Powered Finance Tracker](https://github.com/Raghav2804/finance-tracker)
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Raghav2804&repo=finance-tracker&theme=radical&border_radius=20&border_color=00F5FF&title_color=00F5FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117" width="80%"/>
-</div>
+<details>
+<summary><b>💰 AI-Powered Finance Tracker</b> - <i>Click to expand!</i></summary>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=1F2937" height="30"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1F2937" height="30"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white&labelColor=1F2937" height="30"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1F2937" height="30"/>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Raghav2804&repo=finance-tracker&theme=tokyonight&border_color=00D9FF)](https://github.com/Raghav2804/finance-tracker)
+
 </div>
 
 **💎 Smart Features:**
-- 🧠 **AI-powered** expense categorization & fraud detection
-- ✅ **75% accuracy** in financial article verification
-- 🔗 **Multi-source validation** with 3 trusted financial APIs
-- 📉 **20% reduction** in false positive alerts
-- 📊 **Interactive dashboards** with predictive analytics
+- 🧠 AI-driven expense categorization and fraud detection
+- ✅ **75% accuracy** in financial verification
+- 🔗 Multi-source validation with **3 trusted financial APIs**
+- 📊 Interactive dashboards with predictive analytics
 
-</div>
+**🛠️ Tech Stack:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="100%" height="3">
-</div>
+</details>
 
 ---
 
-## <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50"> Professional Experience
+## 💼 Professional Experience
 
 <div align="center">
 
-### 🛡️ **Cybersecurity Intern** @ **Placify** (June-August 2024)
+### 🛡️ Cybersecurity Intern @ **Placify** 
+**📅 June - August 2024**
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
+</div>
 
-<table align="center">
+<table>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🔍_Penetration_Testing-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F2937" height="40"/>
+<td width="50%">
+
+**🎯 Key Achievements:**
+- 🔍 Identified and resolved **20+ critical vulnerabilities**
+- 📉 Reduced security risk exposure by **30%**
+- 🔐 Implemented multi-factor authentication for all employee accounts
+- 📊 Enhanced network security protocols, achieving **25% security improvement**
+- ✅ Conducted comprehensive penetration testing with **100% patch deployment success**
+
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/📊_Amazing_Results-00F5FF?style=for-the-badge&logoColor=white&labelColor=1F2937" height="40"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-• Comprehensive security assessments<br/>
-• Critical vulnerability identification<br/>
-• Security patch implementation<br/>
-• Risk assessment & mitigation
-</td>
-<td align="center">
-<strong>🎯 20+ vulnerabilities</strong> detected<br/>
-<strong>🛡️ 30% reduction</strong> in risk exposure<br/>
-<strong>✅ 100% success rate</strong> in patch deployment<br/>
-<strong>🏆 Zero breaches</strong> during tenure
+<td width="50%">
+
+**🛠️ Core Responsibilities:**
+- 🔎 Performed security assessments and penetration testing
+- 📡 Monitored network traffic for threat detection
+- 🔧 Implemented security patches and risk mitigation strategies
+- 🛡️ Developed security protocols and authentication systems
+- 📋 Created comprehensive security documentation
+
 </td>
 </tr>
 </table>
 
-<table align="center">
+<div align="center">
+
+### 🏆 Impact Summary
+![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities_Fixed-20+-success?style=for-the-badge)
+![Risk Reduction](https://img.shields.io/badge/Risk_Reduction-30%25-important?style=for-the-badge)
+![Security Boost](https://img.shields.io/badge/Security_Boost-25%25-informational?style=for-the-badge)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Raghav2804&show_icons=true&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&icon_color=00D9FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav2804&layout=compact&theme=tokyonight&border_color=00D9FF&title_color=00D9FF" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghav2804&theme=tokyonight&border=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="70%"/>
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Raghav2804&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15)
+
+### 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raghav2804&bg_color=1a1b27&color=00d9ff&line=70a5fd&point=bf91f3&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Academic Excellence
+
+<div align="center">
+
+<table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🌐_Network_Security-9B59B6?style=for-the-badge&logoColor=white&labelColor=1F2937" height="40"/>
+<img src="https://img.shields.io/badge/CGPA-7.77/10-brightgreen?style=for-the-badge&logo=academic&logoColor=white" height="40"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/📈_Security_Impact-27AE60?style=for-the-badge&logoColor=white&labelColor=1F2937" height="40"/>
+<img src="https://img.shields.io/badge/Specialization-AI%20%26%20Data%20Science-blue?style=for-the-badge&logo=brain&logoColor=white" height="40"/>
 </td>
 </tr>
 <tr>
 <td align="center">
-• Real-time traffic monitoring<br/>
-• Advanced threat detection<br/>
-• Security protocol implementation<br/>
-• Multi-factor authentication setup
+<img src="https://img.shields.io/badge/Institution-KR%20Mangalam%20University-orange?style=for-the-badge&logo=university&logoColor=white" height="40"/>
 </td>
 <td align="center">
-<strong>🚨 15+ threats</strong> neutralized<br/>
-<strong>🔒 25% security boost</strong> achieved<br/>
-<strong>👥 All employee accounts</strong> secured<br/>
-<strong>⚡ Real-time monitoring</strong> implemented
+<img src="https://img.shields.io/badge/Expected%20Graduation-2025-red?style=for-the-badge&logo=calendar&logoColor=white" height="40"/>
 </td>
 </tr>
 </table>
 
 </div>
 
+---
+
+## 🤝 Let's Connect & Collaborate!
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="100%" height="3">
-</div>
+
+I'm always excited to discuss **AI innovations**, **cybersecurity challenges**, and **cutting-edge tech solutions**. Whether you're looking for collaboration, have exciting opportunities, or just want to chat about technology - I'm all ears! 🚀
+
+<table>
+<tr>
+<td align="center">
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="50"/>
+</a>
+</td>
+<td align="center">
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="50"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/Raghav2804">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="50"/>
+</a>
+</td>
+</tr>
+</table>
+
+### 💭 Current Status
+[![Status](https://img.shields.io/badge/🚀%20Status-Building%20The%20Future%20of%20AI-00D9FF?style=for-the-badge&labelColor=1F2937)](https://github.com/Raghav2804)
 
 ---
 
-## <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50"> Certifications & Achievements
-
 <div align="center">
+<h3>✨ "Building AI that protects, not just predicts" ✨</h3>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+</div>
+
+</div>
